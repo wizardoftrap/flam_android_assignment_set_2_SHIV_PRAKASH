@@ -30,6 +30,6 @@ Access the project repository for **WeatherTrack** here:
 ##  Notes
 
 - All Java solutions are organized and follow clean code principles.
-- The Android app uses modern UI practices and API integrations (if required).
+- The Android app uses modern UI practices and API integrations.
 
 > Submitted as part of Flam Android Assignment Set 2
